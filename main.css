@@ -1,0 +1,13 @@
+/* CSS Document */
+
+body{
+	background-color: white;
+	color: red;
+}
+
+#mycanvas{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: linear-gradient(to top, blue, #757575);
+}
